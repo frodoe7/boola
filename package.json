@@ -1,0 +1,23 @@
+{
+  "name": "boola",
+  "version": "1.0.0",
+  "description": "get single random boolean variable or mutiple as array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frodoe7/boola.git"
+  },
+  "keywords": [
+    "boolean",
+    "random"
+  ],
+  "author": "Ahmed Mohsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frodoe7/boola/issues"
+  },
+  "homepage": "https://github.com/frodoe7/boola#readme"
+}
